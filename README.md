@@ -33,7 +33,7 @@ Blindness makes life rather difficult for people who suffer from this health pro
 
 ## Workflow
 
-<img src="https://github.com/HeliosX7/caption-generator-app/blob/master/images/workflow.JPG" height="600">
+<img src="https://github.com/AmnaKhan1323/image-captioning-app/blob/main/images/workflow.JPG" height="600">
 
 
 ---
