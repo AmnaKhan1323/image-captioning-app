@@ -47,6 +47,3 @@ Blindness makes life rather difficult for people who suffer from this health pro
 ---
 
 
-## References
-
-https://github.com/SHARONZACHARIA/Deploy-ML-model
