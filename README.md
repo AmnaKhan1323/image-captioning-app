@@ -44,6 +44,8 @@ Blindness makes life rather difficult for people who suffer from this health pro
 <img src="https://github.com/AmnaKhan1323/image-captioning-app/blob/main/images/demo.gif" width="280" height="550">
 
 
----
+## References
+
+https://github.com/SHARONZACHARIA/Deploy-ML-model
 
 
